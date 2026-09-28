@@ -237,9 +237,3 @@ enter any one: 2
 - Charts of BMI or weight over time
 
 ---
-
-## Author
-
-- **Name:** Animesh Ghosh
-- **Registration No.:** 26BCE10781
-- **Course:** CSE1021 – Introduction to Problem Solving and Programming, VIT Bhopal
